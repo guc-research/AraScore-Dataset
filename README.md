@@ -4,7 +4,7 @@ The following Repository hosts the datasets used for the AraScore paper that foc
 
 ## AraScore-Dataset ##
 
-This data is collected from Arabic Social Studies exams from a school located in Cairo, Egypt. The collected data was then augmented to produce a larger dataset.
+This is our novel dataset. We collected the data from Arabic Social Studies exams from a school located in Cairo, Egypt. The collected data was then augmented to produce a larger dataset.
 
 The data consists of 3 columns: 
 1. Question ID.
