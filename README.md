@@ -2,7 +2,7 @@
 
 The following Repository hosts the dataset used for the AraScore paper that focused on response based arabic automated short answer scoring.
 
-This dataset is collected from Arabic Social Studies exams from a school located in Cairo, Egypt. The collected data was then augmented to produce a larger dataset.
+This data is collected from Arabic Social Studies exams from a school located in Cairo, Egypt. The collected data was then augmented to produce a larger dataset.
 
 The data consists of 3 columns: 
 1. Question ID.
